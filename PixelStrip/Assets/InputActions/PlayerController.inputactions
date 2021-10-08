@@ -1,0 +1,33 @@
+{
+    "name": "PlayerController",
+    "maps": [
+        {
+            "name": "MainMap",
+            "id": "0b57b315-9919-4f6c-a57b-4f590ae25eed",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "40ff50f5-7086-4ddb-8f9b-19c7d8113c3a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d35506ff-0d5f-47c2-b68e-418030d578c2",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
